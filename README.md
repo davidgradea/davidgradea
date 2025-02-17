@@ -13,7 +13,6 @@ I am passionate about technology, always eager to learn and explore new fields i
 #### 🌍 Web Development:
 - 💻 **Frontend:** HTML, CSS, XML
 - 🔧 **Backend:** Django, Flask
-- ☁️ **APIs & Deployment:** RESTful APIs, Docker, CI/CD  
 
 #### 🔌 Microcontrollers & Embedded:
 - ⚡ **Boards:** ATmega164 ,Arduino, ESP32
