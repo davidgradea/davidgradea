@@ -7,7 +7,7 @@ I am passionate about technology, always eager to learn and explore new fields i
 ### 🛠 Skills:
 #### 🚀 Programming & Backend:
 - 🐍 **Python** – OOP, Django, Flask
-- 📊 **Data Processing** – Pandas, NumPy, cv2, mediapipe, pyautogui
+- 📊 **Data Processing** – Pandas, NumPy, OpenCV, MediaPipe, Pyautogui,Pygame
 - 🗄️ **Databases** – SQL (MySQL, SQLite)
 
 #### 🌍 Web Development:
@@ -34,6 +34,6 @@ I am passionate about technology, always eager to learn and explore new fields i
    [View Project](https://github.com/davidgradea/Android-Database-Management-App)
 
 ### 🔹 **Embedded Projects:**
-- 🖥️  **Game of Life on Microcontroller**: Implemented **Conway’s Game of Life** on an LED matrix display, powered by an **ATmega164A microcontroller**. Utilized a **MAX7219 driver** to control a 4-matrix LED display, simulating the evolution of cellular automata based on predefined survival, birth, and death rules. The system runs autonomously, displaying stable structures and moving patterns in real time.
+- 🖥️  **Game of Life on Microcontroller**: Implemented **Conway’s Game of Life** on an LED matrix display, powered by an **ATmega164A microcontroller**. Utilized a **MAX7219 driver** to control a 4-matrix LED display, simulating the evolution of cellular automata based on predefined survival, birth, and death rules. The system runs autonomously, displaying stable structures and moving patterns in real time.  
    [View Project](https://github.com/davidgradea/Game-of-Life)
 
