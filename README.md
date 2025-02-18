@@ -21,7 +21,7 @@ I am passionate about technology, always eager to learn and explore new fields i
 ## 🚀 Projects:
 
 ### 🔹 **Python:**
-- 🖐️ **AI Virtual Mouse and Volume Hand Control**: Developed a project that enables hand gesture-based control for both volume adjustment and mouse navigation using Python. Implemented with MediaPipe, OpenCV, and PyAutoGUI for real-time hand tracking and interaction.
+- 🖐️ **AI Virtual Mouse and Volume Hand Control**: Developed a project that enables hand gesture-based control for both volume adjustment and mouse navigation using Python. Implemented with **MediaPipe**, **OpenCV**, and **PyAutoGUI** for real-time hand tracking and interaction.
 
 
 ### 🔹 **Web Development Projects:**
