@@ -23,12 +23,12 @@ I am passionate about technology, always eager to learn and explore new fields i
 ### 🔹 **Python Projects:**
 - 🖐️ **AI Virtual Mouse and Volume Hand Control**: Developed a project that enables hand gesture-based control for both volume adjustment and mouse navigation using Python. Implemented with **MediaPipe**, **OpenCV**, and **PyAutoGUI** for real-time hand tracking and interaction.
   
- [View Project](https://github.com/davidgradea/Virtual-Mouse-and-Volume-Hand-Control)
+   [View Project](https://github.com/davidgradea/Virtual-Mouse-and-Volume-Hand-Control)
 
     
 - 🔊 **Audio Spectrum Analyzer**: Developed a **Python-based application** for audio spectrum visualization using STFT. Supports real-time playback, spectrogram generation, and image export. Built with **Librosa**, **Matplotlib**, and **Pygame**, featuring a **Tkinter UI** with ttkbootstrap for ease of use.
   
- [View Project](https://github.com/davidgradea/Audio-Spectrum-Analyzer))
+    [View Project](https://github.com/davidgradea/Audio-Spectrum-Analyzer))
 
 
 ### 🔹 **Web Development Projects:**
