@@ -17,11 +17,11 @@ I am passionate about technology, always eager to learn and explore new fields i
 #### 🔌 Microcontrollers & Embedded:
 - ⚡ **Boards:** ATmega164 ,Arduino, ESP32
 -  🖥️ **Game Development on Embedded Devices** – implementing cellular automata
--  
+  
 ## 🚀 Projects:
 
 ### 🔹 **Python:**
--AI Virtual Mouse and 
+-**AI Virtual Mouse and Volume Hand Control**:
 
 
 
