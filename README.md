@@ -25,6 +25,7 @@ I am passionate about technology, always eager to learn and explore new fields i
 
 
 ### 🔹 **Web Development Projects:**
+- 🗄️ **Android Database Management App**: Developed an **Android application** with an **SQLite** database and an intuitive user interface for managing stored data. Implemented CRUD operations for all tables and enforced role-based access control, where clients can view, add, and modify data, while administrators have full control, including deletion. User authentication is secured with hashed passwords for enhanced security.
 
 ### 🔹 **Embedded & IoT Projects:**
 
