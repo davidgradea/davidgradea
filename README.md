@@ -21,19 +21,11 @@ I am passionate about technology, always eager to learn and explore new fields i
 ## 🚀 Projects:
 
 ### 🔹 **Python:**
--**🖐️AI Virtual Mouse and Volume Hand Control**:
-
+- 🖐️ **AI Virtual Mouse and Volume Hand Control**: Developed a project that enables hand gesture-based control for both volume adjustment and mouse navigation using Python. Implemented with MediaPipe, OpenCV, and PyAutoGUI for real-time hand tracking and interaction.
 
 
 ### 🔹 **Web Development Projects:**
-- **📦 E-commerce Platform** – Django-based web application with PostgreSQL  
-- **🔗 URL Shortener** – Flask + SQLite for a simple link-shortening service  
-- **📑 Personal Blog** – Django & React-powered blog with authentication  
 
 ### 🔹 **Embedded & IoT Projects:**
-- **🏠 Smart Home Automation** – ESP32-based home monitoring system  
-- **📈 Real-Time Data Logger** – STM32-based sensor data collection  
 
 ### 🔹 **Python & Data Projects:**
-- **📊 Inventory Management System** – Flask & PostgreSQL  
-- **🔄 Automated Data Processing** – Python scripts for data analysis  
