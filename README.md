@@ -21,7 +21,7 @@ I am passionate about technology, always eager to learn and explore new fields i
 ## 🚀 Projects:
 
 ### 🔹 **Python:**
--**AI Virtual Mouse and Volume Hand Control**:
+-**🖐️AI Virtual Mouse and Volume Hand Control**:
 
 
 
