@@ -6,7 +6,7 @@ I am passionate about technology, always eager to learn and explore new fields i
 
 ### 🛠 Skills:
 #### 🚀 Programming & Backend:
-- 🐍 **Python** – OOP, Django, Flask
+- 🐍 **Python** – OOP
 - 📊 **Data Processing** – Pandas, NumPy, OpenCV, MediaPipe, Pyautogui,Pygame
 - 🗄️ **Databases** – SQL (MySQL, SQLite)
 
